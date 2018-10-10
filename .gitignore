@@ -153,7 +153,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
-/.vs/PivotalDemo/v15/Server/sqlite3
+/PivotalScDemo/dnc/.vs/PivotalDemo/v15/Server/sqlite3
 /packages/
 /.vs/config
 
